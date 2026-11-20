@@ -1,0 +1,18 @@
+# Database dumps and local data (not part of the repo)
+*.tar
+*.zip
+*.backup
+*.dump
+*.csv
+
+# Local connection settings
+.env
+.pgpass
+*.session.sql
+
+# IDE / OS
+.vscode/
+.idea/
+.dbeaver/
+.DS_Store
+Thumbs.db
